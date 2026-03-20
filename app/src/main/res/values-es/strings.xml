@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_basic">Básico</string>
+    <string name="tab_advanced">Avanzado</string>
+    <string name="btn_view_history">Ver Historial</string>
+    <string name="error_message">Error</string>
+    <string name="history_title">Historial de Cálculos</string>
+    <string name="history_empty">Aún no se han hecho cálculos.</string>
+    <string name="history_close">Cerrar</string>
+    <string name="history_clear">Borrar Historial</string>
+</resources>

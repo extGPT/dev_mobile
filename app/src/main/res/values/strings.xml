@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">dev_mobile</string>
+    <string name="app_name" translatable="false">dev_mobile</string>
+    <string name="tab_basic">Basique</string>
+    <string name="tab_advanced">Avancé</string>
+    <string name="btn_view_history">Voir l\'historique</string>
+    <string name="error_message">Erreur</string>
+    <string name="history_title">Historique des calculs</string>
+    <string name="history_empty">Aucun calcul n\'a été effectué pour le moment.</string>
+    <string name="history_close">Fermer</string>
+    <string name="history_clear">Effacer l\'historique</string>
 </resources>
